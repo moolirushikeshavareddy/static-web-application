@@ -1,0 +1,632 @@
+body{
+    margin: 0px;
+    background-color: black;
+
+
+}
+.rushi img{
+    position: absolute;
+    height: 79px;
+    width: 550px;
+    top: 200px;
+    left: 500px;
+}
+
+.head{
+    border: solid 0px black;
+    height: 60px;
+    width: 1335px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 200px;
+    position: fixed;
+    
+     
+}
+
+.head a{
+    
+    border: solid;
+    text-decoration: none;
+    color: rgb(254, 4, 4);
+    box-shadow: 5px 5px 5px ;
+    background-color: gold;
+    border-radius: 5px;
+    transition: all;
+}
+.hemanthlogo img{
+    height: 60px;
+    width: 240px;
+    position: 0px;
+    position: absolute;
+    top: 305px;
+    border-radius: 10px;
+    left: 1270px;
+}
+
+.hemanth img{
+    height: 250px;
+    width: 170px;
+    border-radius: 20%;
+    position: absolute;
+    left: 1300px;
+    top: 62px;
+}
+
+.hemanth1 img{
+    height: 350px;
+    width: 350px;
+    border-radius:50%;
+    position: absolute;
+    left: 150px;
+    top: 302px;
+  
+}
+
+.hii{
+    position: absolute;
+    color: white;
+    top: 50px;
+    left: 50px;
+}
+
+.i{
+    position: absolute;
+    color: rgb(244, 244, 10);
+    top: 85px;
+    left:500px;
+}
+
+.am{
+    color: rgb(8, 193, 5);
+    position: absolute;
+    top: 300px;
+    left: 460px;
+}
+
+
+.feel{
+    position: absolute;
+    top: 360px;
+    left: 495px;
+    color: deeppink;
+}
+
+
+.py{
+    position: absolute;
+    top: 420px;
+    left: 505px;
+    color: rgb(235, 113, 178);
+}
+
+
+.and{
+    position: absolute;
+    top: 458px;
+    left: 600px;
+    color: deeppink;
+}
+.sq{
+    position: absolute;
+    top: 500px;
+    left: 503px;
+    color: rgb(177, 108, 145);
+}
+/* -----------------------------------------headeducation--------------------------------------------------------- */
+
+
+.head1{
+    border: solid 0px black;
+    height: 60px;
+    width: 1335px;
+    background-color: rgb(230, 191, 225);
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 200px;
+    position: fixed;
+    
+     
+}
+
+.head1 a{
+    
+    border: solid;
+    text-decoration: none;
+    color: rgb(254, 4, 4);
+    box-shadow: 5px 5px 5px ;
+    background-color: gold;
+    border-radius: 5px;
+    transition: all;
+}
+.edu1{
+    position: absolute;
+    top: 310px;
+    left: 1390px;
+    color: gold;
+}
+
+
+.degree{
+    border: solid 2px gold;
+    height:70px;
+    width: 390px;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    color: red;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px greenyellow;
+
+}
+
+.inter{
+    border: solid 2px gold;
+    height:70px;
+    width: 350px;
+    position: absolute;
+    top: 100px;
+    left: 490px;
+    color: red;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px greenyellow;
+
+}
+
+.ssc{
+    border: solid 2px gold;
+    height:70px;
+    width: 350px;
+    position: absolute;
+    top: 100px;
+    left: 900px;
+    color: red;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px greenyellow;
+
+}
+
+.imged img{
+    height: 250px;
+    width: 170px;
+    border-radius: 20%;
+    position: absolute;
+    left: 1350px;
+    top: 62px;
+}
+
+.deg1{
+    border: solid 2px red;
+    height: 500px;
+    width: 380px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px palevioletred;
+
+}
+
+.deg2{
+    border: solid 2px red;
+    height: 500px;
+    width: 380px;
+    position: absolute;
+    top: 200px;
+    left: 480px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px palevioletred;
+
+}
+
+
+.deg3{
+    border: solid 2px red;
+    height: 500px;
+    width: 380px;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px palevioletred;
+
+}
+
+.coled{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: rgb(190, 230, 150);
+}
+
+.bsc{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    color: rgb(17, 116, 198);
+}
+
+.com{
+    position: absolute;
+    top: 105px;
+    left: 10px;
+    color: rgb(120, 237, 3);
+}
+
+.sem{
+    position: absolute;
+    top: 140px;
+    left: 10px;
+    color: rgb(237, 202, 7);
+}
+
+.pro{
+    position: absolute;
+    top: 200px;
+    left: 10px;
+    color: rgb(220, 121, 29);
+}
+
+.year{
+    position: absolute;
+    top: 265px;
+    left: 10px;
+    color: rgb(224, 109, 224);
+}
+
+
+.cg{
+    position: absolute;
+    top: 305px;
+    left: 10px;
+    color: rgb(195, 27, 105);
+}
+
+.sv{
+    position: absolute;
+    top: 345px;
+    left: 30px;
+    color: rgb(197, 204, 8); 
+}
+
+
+.clg{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: rgb(7, 178, 241);
+}
+
+.mpced{
+    position: absolute;
+    top: 280px;
+    left: 495px;
+    color: rgb(219, 189, 14);
+}
+
+.cged{
+    position: absolute;
+    top: 320px;
+    left: 495px;
+    color: rgb(190, 230, 150);
+}
+
+
+.ap{
+    position: absolute;
+    top: 360px;
+    left: 495px;
+    color: rgb(14, 179, 188);
+}
+
+.year1{
+    position: absolute;
+    top: 400px;
+    left: 495px;
+    color: rgb(230, 233, 11);
+}
+
+.played{
+    position: absolute;
+    top: 450px;
+    left: 495px;
+    color: rgb(190, 230, 150);
+}
+
+.scl{
+    position: absolute;
+    left: 10px;
+    color: rgb(223, 172, 4);
+
+}
+
+
+.whi{
+    position: absolute;
+    left: 10px;
+    top: 100px;
+    color: rgb(212, 235, 7);
+
+}
+
+
+.pass{
+    position: absolute;
+    left: 10px;
+    top: 170px;
+    color: rgb(5, 242, 33);
+
+}
+
+.kabaddi{
+    position: absolute;
+    left: 10px;
+    top: 225px;
+    color: rgb(7, 177, 233);
+
+}
+
+
+.state{
+    position: absolute;
+    left: 10px;
+    top: 295px;
+    color: rgb(158, 5, 247);
+
+}
+
+.cged1{
+    position: absolute;
+    left: 10px;
+    top: 345px;
+    color: rgb(232, 10, 110);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------------------------headcon-------------------------------------------------------- */
+
+.headcon{
+    border: solid 0px black;
+    height: 60px;
+    width: 1335px;
+    background-color: rgb(159, 64, 227);
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 200px;
+    position: fixed;
+    
+     
+}
+
+.headcon a{
+    
+    border: solid;
+    text-decoration: none;
+    color: rgb(254, 4, 4);
+    box-shadow: 5px 5px 5px ;
+    background-color: gold;
+    border-radius: 5px;
+    transition: all;
+}
+
+.phone img{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 400px;
+    left: 50px;
+    border-radius: 50%;
+
+}
+
+
+.hem img{
+    height: 350px;
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    left: 1250px;
+    border-radius: 70%;
+
+}
+
+.wh img{
+   height: 150px;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    border-radius: 70%;
+
+}
+
+.insta img{
+    height: 150px;
+     position: absolute;
+     top: 400px;
+     left: 700px;
+     border-radius: 70%;
+ 
+ }
+
+ 
+.mail img{
+    height: 150px;
+     position: absolute;
+     top: 400px;
+     left: 1080px;
+     border-radius: 70%;
+ 
+ }
+
+
+
+.hi1{
+    color: red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+
+.you1{
+    color: rgb(145, 241, 11);
+    position: absolute;
+    top: 150px;
+    left: 380px;
+}
+
+.phone1{
+    position: absolute;
+    top: 535px;
+    left: 30px;
+    color: chartreuse;
+}
+
+.wh1{
+    position: absolute;
+    top: 535px;
+    left: 300px;
+    color: chartreuse;
+}
+
+.insta1{
+    position: absolute;
+    top: 535px;
+    left: 600px;
+    color: chartreuse;
+}
+.mail1{
+    position: absolute;
+    top: 535px;
+    left: 1000px;
+    color: chartreuse;
+}
+
+.thanks{
+    position: absolute;
+    top: 650px;
+    color: deeppink;
+    left: 550px;
+}
+/* -----------------------------headabout------------------------------------------------------------------ */
+
+
+.headabout{
+    border: solid 0px black;
+    height: 60px;
+    width: 1335px;
+    background-color: rgba(0, 255, 204, 0.548);
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 200px;
+    position: fixed;
+    
+     
+}
+
+.headabout a{
+    
+    border: solid;
+    text-decoration: none;
+    color: rgb(254, 4, 4);
+    box-shadow: 5px 5px 5px ;
+    background-color: gold;
+    border-radius: 5px;
+    transition: all;
+}
+.hemab img{
+    height: 350px;
+    width: 250px;
+    position: absolute;
+    top: 70px;
+    left: 1200px;
+    border-radius: 50%;
+}
+
+.hiab{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: red;
+}
+.this{
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    color:rgb(227, 212, 205);
+}
+
+
+.myab{
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    color: darkorange;
+}
+
+
+.iab{
+    position: absolute;
+    top: 230px;
+    left: 300px;
+    color: rgb(9, 201, 38);
+}
+
+
+
+.proab{
+    position: absolute;
+    top: 290px;
+    left: 300px;
+    color: rgb(164, 123, 234);
+}
+
+
+.tecab{
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    color: rgb(225, 62, 144);
+}
+
+.hobab{
+    position: absolute;
+    top: 500px;
+    left: 300px;
+    color: rgb(236, 213, 225);
+}
+
+
+
+.strab{
+    position: absolute;
+    top: 550px;
+    left: 300px;
+    color: rgb(221, 191, 60);
+}
+
+.goal{
+    position: absolute;
+    top: 600px;
+    left: 300px;
+    color: rgb(245, 244, 240);
+}
+
+.thank{
+    position: absolute;
+    top: 650px;
+    left: 600px;
+    color: gold;
+}
